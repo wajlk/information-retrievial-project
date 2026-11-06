@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+lxml
+pandas
+pyarrow
+spacy
+matplotlib
+jupyterlab
+# English model for spaCy, installed separately:
+#   python -m spacy download en_core_web_sm
